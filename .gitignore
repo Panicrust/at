@@ -1,0 +1,22 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+*/Content/StarterContent/Architecture
+*/Content/StarterContent/Audio
+*/Content/StarterContent/Blueprints
+*/Content/StarterContent/HDRI
+*/Content/StarterContent/Materials
+*/Content/StarterContent/Particles
+*/Content/StarterContent/Props
+*/Content/StarterContent/Shapes
+*/Content/StarterContent/Textures
+
+######################
+# VS Generated Files #
+######################
+*.sdf
